@@ -1,6 +1,6 @@
 ## Hey there, I'm Aruneem Bhowmick! 👋
 
-I'm interested in developing learning systems capable of advanced reasoning. My current work focuses on three directions: **reasoning architectures**, **representation learning**, and **auto-research agents**. You can see more of my work through my [Kaggle](https://www.kaggle.com/aruneembhowmick) page.
+I'm interested in developing learning systems capable of advanced reasoning. My current work focuses on three directions: **reasoning architectures**, **representation learning**, and **mechanistic interpretability**. You can see more of my work through my [Kaggle](https://www.kaggle.com/aruneembhowmick) page.
 
 Alongside research, I also enjoy building software systems. Many of my projects originate from ML experiments, hackathons, or the simple need to develop a tool to help me get things done quickly. You can see more of my projects through my [Portfolio](https://aruneemb.github.io/portfolio/) and [Hackathons](https://aruneem-bhowmick-hackathons.vercel.app/) pages on GitHub.
 
