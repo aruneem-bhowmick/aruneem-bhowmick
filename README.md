@@ -2,11 +2,9 @@
 
 I'm interested in developing learning systems capable of advanced reasoning. My current work focuses on three directions: **reasoning architectures**, **representation learning**, and **mechanistic interpretability**. You can see more of my work on [aruneem-bhowmick.github.io](https://aruneem-bhowmick.github.io/).
 
-Alongside research, I also enjoy building software systems. Many of my projects originate from ML experiments, hackathons, or the simple need to develop a tool to help me get things done quickly. You can see more of my projects through my [Kaggle](https://www.kaggle.com/aruneembhowmick) and [Hackathons](https://aruneem-bhowmick-hackathons.vercel.app/) pages on GitHub.
+Alongside research, I also enjoy building production-ready software systems. Many of my projects originate from hackathons, previous ML experiments, or the simple need to develop a tool to help me get things done quickly. You can see more of my projects through my [Kaggle](https://www.kaggle.com/aruneembhowmick) and [Hackathons](https://aruneem-bhowmick-hackathons.vercel.app/) pages on GitHub.
 
 More broadly, I'm interested in the philosophy of intelligence, abstraction, and reasoning.
-
-[![roadmap.sh](https://roadmap.sh/card/wide/68d9f38bdcae30387790c015?variant=dark)](https://roadmap.sh)
 
 <!--
 **AruneemB/AruneemB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
